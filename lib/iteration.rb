@@ -1,10 +1,5 @@
 def join_ingredients(src)
-  array=[]
-  new_array=[]
-  array.map do |element|
-  new_array << ("I love #{element[0]} and #{element[1]} on my pizza")
 
-  new_array
 
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
