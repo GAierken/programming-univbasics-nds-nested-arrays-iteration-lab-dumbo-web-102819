@@ -1,8 +1,9 @@
+require "pry"
 def join_ingredients(src)
     new_array=[]
     src.map do |array|
       array.map do |string|
-      
+
     end
   end
 
