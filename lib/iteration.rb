@@ -1,7 +1,7 @@
 def join_ingredients(src)
     src.map do |array|
       array.map do |string|
-    end 
+    end
   end 
 
 
